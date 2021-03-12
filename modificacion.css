@@ -1,0 +1,153 @@
+.papa{
+	position: absolute;
+	top: 50px;
+	left: 200px;
+	width: 1000px;
+	height: 700px;
+	background: orange;
+	border:solid 3px black;
+}
+.fondo1{
+    border:solid 4px black;
+	position: absolute;
+	top: 30px;
+	left: 250px;
+	width: 500px;
+	height: 160px;
+	background: url(calvo.png);
+	background-size: cover;
+}
+.cuadroinvisible{
+    position: absolute;
+	top: 30px;
+	left: 50px;
+	width: 400px;
+	height: 100px;
+	background: blue;
+	border:solid 5px black;
+	background: rgba(211,61,21,0);
+
+}
+.titulo1{
+	font-family:txt1;
+	font-size: 22px; 
+    position: absolute;
+	top: 10px;
+	left: 100px;
+	width: 200px;
+	height: 50px;
+	background: green;
+	border:solid 5px black;
+	background: rgba(211,61,21,0.3); 
+}
+.texto1{
+	position: absolute;
+	top: 1px;
+	left: 30px;
+	color: white;
+	font size: 20px;
+	font-family:txt1;
+}
+@font-face{
+	 font-family:txt1;
+    src: url(go3v2.ttf);
+}
+.hijo1{
+	position: absolute;
+	top: 270px;
+	left: 50px;
+	width: 400px;
+	height: 200px;
+	background: red;
+	border:solid 1px black;
+
+}
+.titupeque{
+	position: absolute;
+	top: 1px;
+	left: 170px;
+	color: white;
+	font size: 20px;
+	font-family:txt2;
+}
+@font-face{
+	font-family:txt2;
+	src: url(asian.ttf);
+}
+.cuadro2hijo1{
+    position: absolute;
+	top: 20px;
+	left: 50px;
+	width: 300px;
+	height: 150px;
+	background: yellow;
+	border:solid 1px black;
+}
+.cuadro3hijo1{
+	position: absolute;
+	top: 20px;
+	left: 30px;
+	width: 250px;
+	height: 100px;
+	background: green;
+	border:solid 1px black;
+	background: rgba(211,61,21,0.3); 
+	font-family:txt2;
+}
+.hijo2{
+    position: absolute;
+	top: 270px;
+	left: 550px;
+	width: 400px;
+	height: 400px;
+	background: red;
+	border:solid 1px black;
+}
+.foto1{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 150px;
+	height: 160px;
+	background: url(boros.png);
+	background-size: cover;
+}
+.foto2{
+	position: absolute;
+	top: 230px;
+	left: 10px;
+	width: 150px;
+	height: 160px;
+	background: url(mar.png);
+	background-size: cover;
+}
+.foto3{
+	position: absolute;
+	top: 10px;
+	left: 220px;
+	width: 150px;
+	height: 160px;
+	background: url(vaccine.png);
+	background-size: cover;
+}
+.foto4{
+	position: absolute;
+	top: 230px;
+	left: 220px;
+	width: 150px;
+	height: 160px;
+	background: url(gouketsu.png);
+	background-size: cover;
+}
+.textult{
+    position: absolute;
+	top: 170px;
+	left: 170px;
+	color: white;
+	font size: 20px;
+	font-family:txt3;
+}
+@font-face{
+	font-family:txt3;
+	src: url(dragon.ttf);
+}
